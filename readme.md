@@ -5,6 +5,10 @@ Wond’Airlines
 
 Elaboration d’une application web de réservation de billets d’avion dans le cadre d’un projet de fin de seconde année de Cycle Informatique et Réseau de l’Institut Supérieur de l’Electronique et du Numérique (ISEN) - Yncréa Ouest.
 
+Warning
+------------
+
+Malheureusement, je n'ai plus accès aux base de données et aux scripts python pour populer la bdd.
 
 Prérequis
 ------------
